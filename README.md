@@ -26,6 +26,27 @@
 <table borderColor="#30363d">
   <tr>
     <td width="50%" valign="top">
+      <h3>💻 Techvolution Minor</h3>
+      <p>A refined web application demonstrating responsive UI, modern design principles, and interactive components.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+      </p>
+      <a href="https://spectacular-sprinkles-678834.netlify.app/">🔗 Live Demo</a> &nbsp;&nbsp; | &nbsp;&nbsp; <a href="https://github.com/KalyanDev18/Techvolution_Minor">💻 GitHub Repo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 Techvolution Major</h3>
+      <p>An advanced major project focusing on seamless user experience, complex problem solving, and modern web architecture.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+      </p>
+      <a href="https://dreamy-puffpuff-f41c9f.netlify.app/">🔗 Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🏨 Prime Booking</h3>
       <p>A production-grade multi-hotel booking system featuring a robust backend and an intuitive frontend architecture.</p>
       <p>
@@ -34,16 +55,16 @@
         <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" alt="Express.js" />
         <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
       </p>
-      <a href="YOUR_LIVE_LINK_HERE">🔗 Live Demo</a> &nbsp;&nbsp; | &nbsp;&nbsp; <a href="YOUR_GITHUB_REPO_LINK_HERE">💻 GitHub Repo</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🚀 Project 2 Title</h3>
-      <p>Awesome project description goes here. Briefly explain what it does, the problem it solves, and its core features.</p>
+      <h3>🎉 Interactive Greeting Card</h3>
+      <p>A fun, beautifully designed interactive digital greeting card built with smooth animations and web technologies.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
       </p>
-      <a href="#">🔗 Live Demo</a> &nbsp;&nbsp; | &nbsp;&nbsp; <a href="#">💻 GitHub Repo</a>
+      <a href="https://meek-chebakia-02a59f.netlify.app/">🔗 Live Demo</a>
     </td>
   </tr>
 </table>
@@ -55,50 +76,36 @@
 ### 🖥️ Frontend & UI
 <p>
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
 ### ⚙️ Backend & Frameworks
 <p>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </p>
 
 ### 🗄️ Database & Cloud Services
 <p>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=arangodb&logoColor=white" alt="ArangoDB" />
-  <img src="https://img.shields.io/badge/CrateDB-009DC7?style=for-the-badge&logo=CrateDB&logoColor=white" alt="CrateDB" />
   <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" />
-  <img src="https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
 </p>
 
-### 📱 Mobile & Tools
-<p>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Bash_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Script" />
-</p>
-
-### 🎨 Design & Creative
+### 🎨 Design & Creative Tools
 <p>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe" />
-  <img src="https://img.shields.io/badge/Adobe_Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="Adobe Lightroom" />
-  <img src="https://img.shields.io/badge/Adobe_Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white" alt="Adobe Dreamweaver" />
-  <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" alt="Sketch" />
-  <img src="https://img.shields.io/badge/Affinity_Designer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white" alt="Affinity Designer" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt="Adobe" />
 </p>
 
 <br/>
@@ -128,32 +135,3 @@
   <p><b>✨ Profile Views ✨</b></p>
   <img src="https://komarev.com/ghpvc/?username=KalyanDev18&label=Profile%20Views&color=00E5FF&style=for-the-badge" alt="Profile Views" />
 </div>
-# Techvolution Minor 🚀
-
-Welcome to the **Techvolution Minor** project! This is a web application designed with a focus on seamless user experience and modern web design principles. 
-
-🔗 **Live Demo:** [Techvolution Minor Live](https://spectacular-sprinkles-678834.netlify.app/)
-
-## 🛠️ Tech Stack
-* **Frontend:** React.js / HTML5, CSS3, JavaScript (Update if you used specific libraries)
-* **Deployment:** Netlify
-* **Version Control:** Git & GitHub
-
-## ✨ Features
-* Responsive UI/UX design suitable for all devices (Mobile, Tablet, Desktop).
-* Fast loading speeds and optimized performance.
-* Clean and interactive user interface.
-* (Add any other specific feature your project has, like form validation, API calls, etc.)
-
-## 🚀 Getting Started
-
-Follow these instructions to set up the project on your local machine for development and testing purposes.
-
-### Prerequisites
-Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/KalyanDev18/Techvolution_Minor.git](https://github.com/KalyanDev18/Techvolution_Minor.git)
