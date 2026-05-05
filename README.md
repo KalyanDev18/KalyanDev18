@@ -128,3 +128,32 @@
   <p><b>✨ Profile Views ✨</b></p>
   <img src="https://komarev.com/ghpvc/?username=KalyanDev18&label=Profile%20Views&color=00E5FF&style=for-the-badge" alt="Profile Views" />
 </div>
+# Techvolution Minor 🚀
+
+Welcome to the **Techvolution Minor** project! This is a web application designed with a focus on seamless user experience and modern web design principles. 
+
+🔗 **Live Demo:** [Techvolution Minor Live](https://spectacular-sprinkles-678834.netlify.app/)
+
+## 🛠️ Tech Stack
+* **Frontend:** React.js / HTML5, CSS3, JavaScript (Update if you used specific libraries)
+* **Deployment:** Netlify
+* **Version Control:** Git & GitHub
+
+## ✨ Features
+* Responsive UI/UX design suitable for all devices (Mobile, Tablet, Desktop).
+* Fast loading speeds and optimized performance.
+* Clean and interactive user interface.
+* (Add any other specific feature your project has, like form validation, API calls, etc.)
+
+## 🚀 Getting Started
+
+Follow these instructions to set up the project on your local machine for development and testing purposes.
+
+### Prerequisites
+Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/KalyanDev18/Techvolution_Minor.git](https://github.com/KalyanDev18/Techvolution_Minor.git)
