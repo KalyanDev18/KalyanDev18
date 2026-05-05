@@ -47,14 +47,15 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏨 Prime Booking</h3>
-      <p>A production-grade multi-hotel booking system featuring a robust backend and an intuitive frontend architecture.</p>
+      <h3>🏨 Prime Booking 🚧 (Upcoming)</h3>
+      <p>A production-grade multi-hotel booking system featuring a robust backend and intuitive frontend architecture. Currently in active development.</p>
       <p>
         <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" />
         <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
         <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" alt="Express.js" />
         <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
       </p>
+      <em>🚀 Coming Soon...</em>
     </td>
     <td width="50%" valign="top">
       <h3>🎉 Interactive Greeting Card</h3>
@@ -113,14 +114,14 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KalyanDev18&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KalyanDev18&theme=tokyonight" alt="GitHub Stats Summary" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KalyanDev18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalyanDev18&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KalyanDev18&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KalyanDev18&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 </div>
 
 <br/>
