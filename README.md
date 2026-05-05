@@ -1,12 +1,16 @@
 <div align="center">
-  <!-- Animated Background Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%20There!%20👋%20I'm%20Kalyan&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=38" alt="Header Banner" />
+  <!-- Animated Background Banner with Full-Stack Title -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%20There!%20👋%20I'm%20Kalyan%20Dev&desc=Full-Stack%20(MERN)%20Developer&fontSize=45&descSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=35&descAlignY=55" alt="Header Banner" />
 
-  <!-- Typing Animation Subtitle -->
+  <br/>
+
+  <!-- Typing Animation Subtitle with Fullstack Details -->
   <a href="https://github.com/KalyanDev18">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%26+Designer;Building+Modern+Web+Apps;Always+Learning+New+Tech!" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;Specializing+in+MERN+Stack;React.js+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Apps!" alt="Typing Animation" />
   </a>
 </div>
+
+<br/>
 
 <div align="center">
   <!-- Socials -->
@@ -74,11 +78,13 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KalyanDev18&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KalyanDev18&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=KalyanDev18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KalyanDev18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalyanDev18&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
@@ -92,5 +98,5 @@
 
 <div align="center">
   <p><b>✨ Profile Views ✨</b></p>
-  <img src="https://visitcount.itsvg.in/api?id=KalyanDev18&icon=2&color=3" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=KalyanDev18&label=Profile%20Views&color=00E5FF&style=for-the-badge" alt="Profile Views" />
 </div>
