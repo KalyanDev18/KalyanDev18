@@ -1,7 +1,10 @@
 <div align="center">
-  <!-- Animated Typing Header -->
+  <!-- Animated Background Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%20There!%20👋%20I'm%20Kalyan&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=38" alt="Header Banner" />
+
+  <!-- Typing Animation Subtitle -->
   <a href="https://github.com/KalyanDev18">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there!+👋;I'm+Kalyan+Dev;Full-Stack+Developer+%26+Designer;Always+learning+new+tech!" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%26+Designer;Building+Modern+Web+Apps;Always+Learning+New+Tech!" alt="Typing Animation" />
   </a>
 </div>
 
