@@ -21,6 +21,35 @@
 
 <br/>
 
+## 🛠️ Featured Projects
+
+<table borderColor="#30363d">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏨 Prime Booking</h3>
+      <p>A production-grade multi-hotel booking system featuring a robust backend and an intuitive frontend architecture.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+      </p>
+      <a href="YOUR_LIVE_LINK_HERE">🔗 Live Demo</a> &nbsp;&nbsp; | &nbsp;&nbsp; <a href="YOUR_GITHUB_REPO_LINK_HERE">💻 GitHub Repo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 Project 2 Title</h3>
+      <p>Awesome project description goes here. Briefly explain what it does, the problem it solves, and its core features.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+      </p>
+      <a href="#">🔗 Live Demo</a> &nbsp;&nbsp; | &nbsp;&nbsp; <a href="#">💻 GitHub Repo</a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 ## 🚀 Tech Stack
 
 ### 🖥️ Frontend & UI
